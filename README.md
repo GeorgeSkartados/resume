@@ -29,7 +29,7 @@ I work with **SQL, Python, and BI tools** to clean messy data, uncover patterns,
 ---
 
 ## 📄 Resume  
-[View Resume (PDF)](https://github.com/GeorgeSkartados/GeorgeSkartados/raw/main/George_Skartados_Resume.pdf)  
+[View Resume (PDF)](https://github.com/GeorgeSkartados/resume/raw/main/George_Skartados_Resume.pdf)  
 
 ---
 
