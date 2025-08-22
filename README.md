@@ -1,39 +1,46 @@
-📊 George Skartados – Data Analyst
+# 📊 George Skartados – Data Analyst  
 
-Hi, I’m George — a Data Analyst passionate about turning raw data into stories people can actually use.
-I work with SQL, Python, and BI tools to clean messy data, uncover patterns, and build dashboards that make decision-making easier.
+Hi, I’m George — a Data Analyst passionate about turning raw data into stories people can actually use.  
+I work with **SQL, Python, and BI tools** to clean messy data, uncover patterns, and build dashboards that make decision-making easier.  
 
-🚀 Featured Projects
+---
 
-Here are some of the projects I’ve worked on (full details available in each repo):
+## 🚀 Featured Projects  
+- **[🔮 Solar Energy Forecasting](https://github.com/GeorgeSkartados/solar-energy-forecasting)**  
+  Forecasted weekly solar output using Prophet & Power BI; designed a dashboard comparing historical vs forecasted trends.  
 
-🔮 Clean Energy Forecasting – Built a time-series forecasting dashboard using Prophet & Power BI to predict energy usage trends.
+- **[💳 Credit Card Fraud Detection](https://github.com/GeorgeSkartados/Credit-Card-Fraud-Detection)**  
+  Built classification models (LogReg, RF, XGBoost) with SMOTE balancing; improved fraud detection accuracy while reducing false positives.  
 
-💳 Credit Card Fraud Detection – Developed ML models to identify fraudulent transactions and improve detection accuracy.
+- **[📱 Google Play Store Analysis](https://github.com/GeorgeSkartados/Google-Play-Store-Apps-Analysis)**  
+  Analyzed 10,000+ apps to uncover trends in downloads, pricing, and ratings; produced stakeholder-ready dashboards.  
 
-📱 App Performance Analysis – Analyzed Google Play Store data to uncover key drivers of app success and user engagement.
+- **[🌍 Data Center Energy Dashboard](https://github.com/GeorgeSkartados/data-center-energy-dashboard)**  
+  Interactive Power BI dashboard showing energy use & CO₂ emissions; scenario analysis on renewable adoption impacts.  
 
-🌍 Data Center Energy Dashboard – Designed an interactive Power BI dashboard to track global data center energy use & CO₂ emissions, with renewable energy scenarios.
+---
 
-🛠️ Core Skills
+## 🛠️ Core Skills  
+- **Languages & Tools:** Python, SQL, Jupyter, Git, Power BI, Tableau, Excel  
+- **Data Analysis:** Cleaning, wrangling, visualization, dashboards  
+- **Machine Learning:** Forecasting, classification, anomaly detection  
+- **Soft Skills:** Clear communicator, problem-solver, results-driven  
 
-Data Analysis & Visualization: SQL, Python (Pandas, NumPy, Scikit-learn), Power BI, Tableau
+---
 
-Machine Learning: Time-series forecasting, classification, anomaly detection
+## 📄 Resume  
+[View Resume (PDF)](https://github.com/GeorgeSkartados/GeorgeSkartados/raw/main/George_Skartados_Resume.pdf)  
 
-Soft Skills: Clear communication, stakeholder collaboration, problem-solving
+---
 
-📄 Resume
+## 🔗 Profiles  
+- [LinkedIn](https://www.linkedin.com/in/gskartados)  
+- [Portfolio Website](https://george-skartados-qev6q2j.gamma.site)  
+- [Coursera](https://www.coursera.org/user/82591f6bae9f1e407d78fea5f6b13914)  
+- [DataCamp](https://www.datacamp.com/portfolio/grskartados)  
 
-View Resume (PDF)
+---
 
-🤝 Let’s Connect
+✨ *Open to fully remote, mission-driven opportunities in tech, business, or clean energy.*  
 
-📧 Email: skartadosg@yahoo.com
-
-🔗 LinkedIn: linkedin.com/in/gskartados
-
-💻 GitHub: GeorgeSkartados
-
-✨ Always open to remote, mission-driven opportunities in tech, business, or clean energy.
 I enjoy connecting with people who care about using data for impact. Feel free to reach out — I’d love to chat.
