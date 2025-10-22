@@ -47,7 +47,3 @@ IBM-Certified, fully remote-ready, and passionate about working with mission-dri
 - [DataCamp](https://www.datacamp.com/portfolio/grskartados)  
 
 ---
-
-✨ *Open to fully remote, mission-driven opportunities in tech, business, or clean energy.*  
-
-I enjoy connecting with people who care about using data for impact. Feel free to reach out — I’d love to chat.
