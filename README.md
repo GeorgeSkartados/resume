@@ -1,7 +1,14 @@
 # 📊 George Skartados – Data Analyst  
 
-Hi, I’m George — a Data Analyst passionate about turning raw data into stories people can actually use.  
-I work with **SQL, Python, and BI tools** to clean messy data, uncover patterns, and build dashboards that make decision-making easier.  
+👋 Hi, I’m George — a Data Analyst who transforms complexity into clarity.
+
+I use Python, SQL, and Power BI to turn raw data into clear, actionable insights that help teams move faster, forecast smarter, and make confident decisions. My work spans machine learning, data visualization, and forecasting — from detecting fraud to predicting solar energy output.
+
+Through hands-on programs with Quantium and Tata, I learned that the best dashboards don’t just show data — they show direction. Whether it’s optimizing energy forecasts or uncovering inefficiencies, I focus on building systems that simplify the complex and move ideas forward.
+
+I’m driven by curiosity at the intersection of clean energy, AI, and cybersecurity analytics, exploring how intelligent data systems can make our world cleaner, safer, and more efficient.
+
+IBM-Certified, fully remote-ready, and passionate about working with mission-driven teams shaping what comes next.
 
 ---
 
