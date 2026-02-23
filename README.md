@@ -1,49 +1,56 @@
-# 📊 George Skartados – Data Analyst  
+# George Skartados – Data Analyst
 
-👋 Hi, I’m George — a Data Analyst who transforms complexity into clarity.
+Data Analyst focused on operational analytics, forecasting, and risk modeling.
 
-I use Python, SQL, and Power BI to turn raw data into clear, actionable insights that help teams move faster, forecast smarter, and make confident decisions. My work spans machine learning, data visualization, and forecasting — from detecting fraud to predicting solar energy output.
-
-Through hands-on programs with Quantium and Tata, I learned that the best dashboards don’t just show data — they show direction. Whether it’s optimizing energy forecasts or uncovering inefficiencies, I focus on building systems that simplify the complex and move ideas forward.
-
-I’m driven by curiosity at the intersection of clean energy, AI, and cybersecurity analytics, exploring how intelligent data systems can make our world cleaner, safer, and more efficient.
-
-IBM-Certified, fully remote-ready, and passionate about working with mission-driven teams shaping what comes next.
+I work with SQL, Python, and Power BI to analyze structured datasets and support planning, risk management, and performance monitoring decisions.
 
 ---
 
-## 🚀 Featured Projects  
-- **[🔮 Solar Energy Forecasting](https://github.com/GeorgeSkartados/solar-energy-forecasting)**  
-  Forecasted weekly solar output using Prophet & Power BI; designed a dashboard comparing historical vs forecasted trends.  
+## Focus Areas
 
-- **[💳 Credit Card Fraud Detection](https://github.com/GeorgeSkartados/Credit-Card-Fraud-Detection)**  
-  Built classification models (LogReg, RF, XGBoost) with SMOTE balancing; improved fraud detection accuracy while reducing false positives.  
-
-- **[📱 Google Play Store Analysis](https://github.com/GeorgeSkartados/Google-Play-Store-Apps-Analysis)**  
-  Analyzed 10,000+ apps to uncover trends in downloads, pricing, and ratings; produced stakeholder-ready dashboards.  
-
-- **[🌍 Data Center Energy Dashboard](https://github.com/GeorgeSkartados/data-center-energy-dashboard)**  
-  Interactive Power BI dashboard showing energy use & CO₂ emissions; scenario analysis on renewable adoption impacts.  
+- Time-series forecasting (Prophet)
+- Imbalanced classification modeling (Random Forest, Logistic Regression)
+- SQL-based structured data analysis
+- Dashboard reporting for operational decision-making
 
 ---
 
-## 🛠️ Core Skills  
-- **Languages & Tools:** Python, SQL, Jupyter, Git, Power BI, Tableau, Excel  
-- **Data Analysis:** Cleaning, wrangling, visualization, dashboards  
-- **Machine Learning:** Forecasting, classification, anomaly detection  
-- **Soft Skills:** Clear communicator, problem-solver, results-driven  
+## Featured Projects
+
+### Solar Energy Forecasting  
+7-day Prophet forecast model with Power BI monitoring dashboard  
+🔗 https://github.com/GeorgeSkartados/solar-energy-forecasting  
+
+### Credit Card Fraud Detection  
+284,807 transactions | ~90.6% F1-score | SMOTE + Random Forest  
+🔗 https://github.com/GeorgeSkartados/Credit-Card-Fraud-Detection  
+
+### Google Play Store Analysis  
+10,000+ app dataset | performance trend analysis  
+🔗 https://github.com/GeorgeSkartados/Google-Play-Store-Apps-Analysis  
+
+### Data Center Energy Dashboard  
+Scenario-based energy & emissions modeling | Power BI  
+🔗 https://github.com/GeorgeSkartados/data-center-energy-dashboard  
 
 ---
 
-## 📄 Resume  
-[View Resume (PDF)](https://github.com/GeorgeSkartados/resume/raw/main/george_skartados_resume.pdf)  
+## Tech Stack
+
+**Languages:** SQL, Python  
+**Analytics:** Forecasting, classification, anomaly detection  
+**Tools:** Power BI, Excel, Git  
 
 ---
 
-## 🔗 Profiles  
-- [LinkedIn](https://www.linkedin.com/in/gskartados)  
-- [Portfolio Website](https://george-skartados-qev6q2j.gamma.site)  
-- [Coursera](https://www.coursera.org/user/82591f6bae9f1e407d78fea5f6b13914)  
-- [DataCamp](https://www.datacamp.com/portfolio/grskartados)  
+## Resume
+
+[View Resume (PDF)](https://github.com/GeorgeSkartados/resume/raw/main/george_skartados_resume.pdf)
 
 ---
+
+## Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/gskartados)
+- [Portfolio Website](https://george-skartados-qev6q2j.gamma.site/george-skartados)
+- [DataCamp](https://www.datacamp.com/portfolio/grskartados)
